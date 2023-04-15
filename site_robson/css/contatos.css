@@ -1,0 +1,21 @@
+body{
+background-color: black;
+
+}
+
+
+.fo1{
+width: 60%;
+
+margin-top: 30px;
+
+background-color: lightblue;
+padding: 30px;
+}
+.a{
+
+margin-top: 20px;
+background-color: lightgray;
+border: 1px solid black;
+margin-left: 5px;
+}

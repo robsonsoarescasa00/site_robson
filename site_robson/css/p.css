@@ -1,0 +1,135 @@
+
+*{
+margin:0;
+padding:0;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+background:linear-gradient(black,hsla(227, 75%, 11%, 0.929));
+width: 100%;
+height: 90px;
+padding: 10px;
+border: 3px solid;
+padding: 10px;
+box-shadow: 5px 10px;
+
+}
+.t {
+color: aliceblue ;
+width: 25%;
+height: 40px;
+font-size: 40px;
+
+}
+.container{
+max-width: 1080px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.logo{
+width: 25%;
+
+}
+.logo img {
+
+width: 70px;
+border-radius: 50%;
+
+}
+.menu{
+width: 50%;
+
+}
+.menu nav a {
+
+color: white ;
+text-decoration: none;
+padding-right: 30px;
+font-size: 18px;
+cursor: pointer;
+}
+.principal{
+    height: 1080px;
+    width: 100%;
+    background-color: rgb(242, 222, 4);
+}
+.div{
+   
+background-color:#00009C;
+width: 22%;
+height: 250%;
+float: left;
+background: linear-gradient(rgb(3, 3, 77),rgb(19, 169, 220));
+}
+.div ul{
+padding: 20px;
+margin-top:10px ;
+
+}
+.div ul li{
+    font-size: 20px;
+    padding: 10px;
+    margin-top:20px ;
+background-color:rgb(8, 237, 221);
+color: aliceblue;
+border-radius: 10px;
+border: 2px solid black;
+list-style-type: none;
+}
+.div ul li a{
+color: black;
+text-decoration: none;
+
+
+}
+
+.lado{
+background-color:lightblue ;
+width: 78%;
+height: 180%;
+
+float:right;
+align-items: center;
+
+padding: 20px;
+}
+.lado p pre {
+padding-top: 20px;
+font-size: 30px;
+margin-top: 10px;
+}
+.futuro{
+width: 50px;
+height: 40px;
+font-size: 30px;
+float: left;
+color: crimson;
+}
+.lado h2{
+font-size: 30px;
+padding: 20px;
+
+}
+
+.lado img {
+width: 650px;
+height: 300px;
+border-radius:20px ;
+
+}
+
+.footer{
+    background:linear-gradient(black,hsla(227, 75%, 11%, 0.929));
+    width: 100%; 
+
+height: 50px;
+    font-size: 10px;
+    color: white;
+padding: 5px;
+position: fixed;
+   bottom: 0; 
+   border: 3px solid black;
+}
+
